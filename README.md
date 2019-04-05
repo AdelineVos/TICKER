@@ -1,1 +1,1 @@
-# TICKER
+![](Ticker.mp4)

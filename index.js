@@ -34,7 +34,10 @@
                 hlinks.eq(i).on("mouseleave", function(e) {
                     left++;
                     moving();
-                    $(e.target).css({ color: "black", textDecoration: "none" });
+                    $(e.target).css({
+                        color: "purple",
+                        textDecoration: "none"
+                    });
                 });
             }
         }
