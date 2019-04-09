@@ -1,16 +1,16 @@
 # News Ticker
 
-# GIF Example
+### GIF
 
 ![Alt Text](TICKER.gif)
 
-# TECH Stack
+## TECH Stack
 
 -   Javascript
 -   JSON/AJAX
 -   HTML
 -   CSS
 
-# How to launch:
+## Launch:
 
 Local Network
