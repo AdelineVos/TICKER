@@ -1,1 +1,1 @@
-![](Ticker.mp4)
+![Alt Text](TICKER.gif)
