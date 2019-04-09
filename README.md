@@ -1,6 +1,6 @@
 # News Ticker
 
-### GIF
+#### Project GIF
 
 ![Alt Text](TICKER.gif)
 
