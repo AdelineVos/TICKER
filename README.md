@@ -1,12 +1,12 @@
 # News Ticker
 
-#### Project GIF
+##### GIF of project:
 
 ![Alt Text](TICKER.gif)
 
-## TECH Stack
+## TECH Stack:
 
--   Javascript
+-   JavaScript
 -   JSON/AJAX
 -   HTML
 -   CSS
